@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=nguyenvanduydev001&label=Profile%20views&color=0e75b6&style=flat"  alt="nguyenvanduydev001" />
+![image](https://github.com/nguyenvanduydev001/nguyenvanduydev001/assets/156684740/5305205e-6d3f-4b9d-814b-4233285c1775)<img align="right" src="https://komarev.com/ghpvc/?username=nguyenvanduydev001&label=Profile%20views&color=0e75b6&style=flat"  alt="nguyenvanduydev001" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duy!;" />
 </h1>
@@ -42,7 +42,7 @@
 
 <br/>
 <hr/>
-
+https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f40d.gif
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
