@@ -3,16 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenvanduydev001&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenvanduydev001" /> </p>
 
-
-- 🔭 I’m currently working on [coolmate-clone](https://github.com/nguyenvanduydev001/full-stack-coolmate)
-
 - 🌱 I’m currently learning **Da Nang University of Architecture**
 
-- 👯 I’m looking to collaborate on [VAD_task_manager](https://github.com/wijez/VAD_task_manager)
-
-- 🤝 I’m looking for help with [tiktok-ui](https://github.com/nguyenvanduydev001/tiktok-ui)
-
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript HTML, CSS**
 
 - 📫 How to reach me **nguyenvanduydev001@gmail.com**
 
