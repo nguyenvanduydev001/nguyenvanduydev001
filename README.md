@@ -41,7 +41,6 @@
 
 <br/>
 <hr/>
-https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f40d.gif
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
