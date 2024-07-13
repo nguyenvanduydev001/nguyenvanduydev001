@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duy!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">A Web Developer from VietNam</h3>
 
 <br/>
   
