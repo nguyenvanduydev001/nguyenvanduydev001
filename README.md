@@ -76,7 +76,7 @@
       />
     </td>
     <td>
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/669a7b74f8feb7f3db460b3c?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
+    <a href="https://roadmap.sh/frontend?s=669a7b74f8feb7f3db460b3c" ><img src="https://roadmap.sh/card/tall/669a7b74f8feb7f3db460b3c?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
     </td>
   </tr>
 </table>
