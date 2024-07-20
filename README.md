@@ -51,15 +51,36 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nguyenvanduydev001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nguyenvanduydev001&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nguyenvanduydev001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        width="390" 
+        src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nguyenvanduydev001&count_private=true&theme=react&border_radius=10" 
+        alt="Streak stats showing coding activity over time" 
+        title="Coding streak stats"
+      />
+      <br/>
+      <img 
+        width="390" 
+        src="https://github-readme-stats-salesp07.vercel.app/api?username=nguyenvanduydev001&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+        alt="GitHub stats showing overall coding activity" 
+        title="GitHub coding stats"
+      />
+      <br/>
+      <img 
+        width="390" 
+        src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nguyenvanduydev001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+        alt="Top programming languages used" 
+        title="Top programming languages"
+      />
+    </td>
+    <td>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/669a7b74f8feb7f3db460b3c?variant=dark" alt="roadmap.sh"/></a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
 
 <hr/>
 <h1 align="center">
