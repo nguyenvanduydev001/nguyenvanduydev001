@@ -51,35 +51,35 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<table align="center">
-  <tr>
-    <td>
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div>
       <img 
         width="390" 
         src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nguyenvanduydev001&count_private=true&theme=react&border_radius=10" 
         alt="Streak stats showing coding activity over time" 
         title="Coding streak stats"
       />
-      <br/>
+    </div>
+    <div>
       <img 
         width="390" 
         src="https://github-readme-stats-salesp07.vercel.app/api?username=nguyenvanduydev001&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
         alt="GitHub stats showing overall coding activity" 
         title="GitHub coding stats"
       />
-      <br/>
+    </div>
+    <div>
       <img 
         width="390" 
         src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nguyenvanduydev001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
         alt="Top programming languages used" 
         title="Top programming languages"
       />
-    </td>
-    <td>
-    <a href="https://roadmap.sh/frontend?s=669a7b74f8feb7f3db460b3c" ><img src="https://roadmap.sh/card/tall/669a7b74f8feb7f3db460b3c?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
+
 
 
 <hr/>
