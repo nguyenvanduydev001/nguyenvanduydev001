@@ -83,8 +83,9 @@
 
 
 <hr/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!🤗;+Have+a+good+day!;" />
-</h1>
-
-<br/>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!🤗;+Buy+me+a+coffee🧡;+Have+a+good+day!;" />
+</div>
+<div align="right">
+     <a href="https://www.buymeacoffee.com/duydeveloper"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=duydeveloper&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</div>
