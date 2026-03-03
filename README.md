@@ -5,8 +5,8 @@
 <h3 align="center">AI Intern & Full-stack Web Developer from VietNam</h3>
 
 <div align="center">
-  <a href="Nguyen-Van-Duy.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My-Curriculum%20Vitae-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1cmgqyR2iXXY44R_rSawgcdYyqBgrDHi-/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My-Curriculum%20Vitae-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </div>
 
